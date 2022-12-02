@@ -1,0 +1,55 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sites",
+  "info": {
+    "singularName": "site",
+    "pluralName": "sites",
+    "displayName": "Site",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "siteRank": {
+      "type": "integer"
+    },
+    "siteName": {
+      "type": "string"
+    },
+    "qualifiedPatients": {
+      "type": "integer"
+    },
+    "estimatedRandomizations": {
+      "type": "integer"
+    },
+    "pastStudies": {
+      "type": "integer"
+    },
+    "PIExperience": {
+      "type": "integer"
+    },
+    "siteScore": {
+      "type": "integer"
+    },
+    "activated": {
+      "type": "boolean"
+    },
+    "budget": {
+      "type": "boolean"
+    },
+    "contract": {
+      "type": "boolean"
+    },
+    "regulatory": {
+      "type": "boolean"
+    },
+    "irb": {
+      "type": "boolean"
+    }
+  }
+}
