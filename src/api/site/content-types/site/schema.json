@@ -50,6 +50,21 @@
     },
     "irb": {
       "type": "boolean"
+    },
+    "location": {
+      "type": "string"
+    },
+    "ongoing_screening": {
+      "type": "integer"
+    },
+    "total_expected_rand": {
+      "type": "integer"
+    },
+    "rand_est_fq": {
+      "type": "integer"
+    },
+    "rand_to_date": {
+      "type": "integer"
     }
   }
 }

@@ -1,0 +1,34 @@
+{
+  "kind": "singleType",
+  "collectionName": "dashboards",
+  "info": {
+    "singularName": "dashboard",
+    "pluralName": "dashboards",
+    "displayName": "Dashboard",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "completion_date": {
+      "type": "string"
+    },
+    "estimate_budget_overrun": {
+      "type": "integer"
+    },
+    "screen_failure_rate": {
+      "type": "integer"
+    },
+    "projected_completion_date": {
+      "type": "date"
+    },
+    "oroginal_completeion_date": {
+      "type": "date"
+    },
+    "screen_failure_reasons": {
+      "type": "text"
+    }
+  }
+}
