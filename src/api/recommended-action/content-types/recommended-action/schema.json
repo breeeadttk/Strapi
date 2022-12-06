@@ -4,7 +4,8 @@
   "info": {
     "singularName": "recommended-action",
     "pluralName": "recommended-actions",
-    "displayName": "Recommended Actions"
+    "displayName": "Recommended Actions",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -15,6 +16,9 @@
       "type": "boolean"
     },
     "label": {
+      "type": "string"
+    },
+    "name": {
       "type": "string"
     }
   }
