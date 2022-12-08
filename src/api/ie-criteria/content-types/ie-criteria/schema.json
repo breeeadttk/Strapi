@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "ie_criterias",
+  "info": {
+    "singularName": "ie-criteria",
+    "pluralName": "ie-criterias",
+    "displayName": "ie_criteria"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "fev1": {
+      "type": "string"
+    }
+  }
+}
