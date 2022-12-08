@@ -65,6 +65,15 @@
     },
     "rand_to_date": {
       "type": "integer"
+    },
+    "avg_years_coordinator_exp": {
+      "type": "string"
+    },
+    "dedicated_staff_count": {
+      "type": "string"
+    },
+    "site_id": {
+      "type": "integer"
     }
   }
 }
