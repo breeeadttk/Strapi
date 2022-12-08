@@ -16,6 +16,9 @@
     },
     "screenings": {
       "type": "integer"
+    },
+    "name": {
+      "type": "string"
     }
   }
 }
