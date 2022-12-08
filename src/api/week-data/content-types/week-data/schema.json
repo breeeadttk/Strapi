@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "weeks_data",
+  "info": {
+    "singularName": "week-data",
+    "pluralName": "weeks-data",
+    "displayName": "Week Data"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "randomizations": {
+      "type": "integer"
+    },
+    "screenings": {
+      "type": "integer"
+    }
+  }
+}
