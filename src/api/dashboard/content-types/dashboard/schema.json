@@ -29,6 +29,15 @@
     },
     "screen_failure_reasons": {
       "type": "text"
+    },
+    "randomizations": {
+      "type": "integer"
+    },
+    "randomizations_min": {
+      "type": "integer"
+    },
+    "randomizations_max": {
+      "type": "integer"
     }
   }
 }
